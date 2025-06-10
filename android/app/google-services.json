@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "204849410488",
+    "firebase_url": "https://memory-matching-game-bykz-default-rtdb.firebaseio.com",
+    "project_id": "memory-matching-game-bykz",
+    "storage_bucket": "memory-matching-game-bykz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204849410488:android:0291aa52c18148ae4edf4d",
+        "android_client_info": {
+          "package_name": "com.example.memory_matching_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204849410488-dsl4adrtffoikracp3mf77ddsblr5f42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj9Dkys1uKZx90ExVPuloN2xhnCE0cZy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204849410488-dsl4adrtffoikracp3mf77ddsblr5f42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204849410488:android:50a56e0b4f6baf8a4edf4d",
+        "android_client_info": {
+          "package_name": "com.example.memorygame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204849410488-dsl4adrtffoikracp3mf77ddsblr5f42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj9Dkys1uKZx90ExVPuloN2xhnCE0cZy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204849410488-dsl4adrtffoikracp3mf77ddsblr5f42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
